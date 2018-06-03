@@ -12,7 +12,7 @@
 2) Install BetterDiscord
 3) Open Discord settings (cogwheel in the bottom)
 4) Go to Themes
-5) Click `Open Theme Folder` and drop my [**theme file**](https://raw.githubusercontent.com/redfellow/compact-messages--betterdiscord-theme/master/reds-compact.theme.css) there
+5) Click `Open Theme Folder` and drop my [**theme file**](https://raw.githubusercontent.com/redfellow/compact-messages--betterdiscord-theme/master/reds-compact.theme.css) there (right click to save or open the link and ctrl-s)
 6) Go back to Discord
 7) Hit `CTRL-R` to reload Discord
 8) Go to the Theme settings again, and now you should be able to enable the theme:
