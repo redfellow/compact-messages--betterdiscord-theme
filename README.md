@@ -8,7 +8,7 @@
 </p>
 
 ### Install 
-1) Download BetterDiscord at https://betterdiscord.net/home/ or https://github.com/Jiiks/BetterDiscordApp/releases
+1) Download Bandaged BetterDiscord at https://github.com/rauenzi/BetterDiscordApp
 2) Install BetterDiscord
 3) Open Discord settings (cogwheel in the bottom)
 4) Go to Themes
