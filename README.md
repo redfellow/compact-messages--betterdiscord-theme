@@ -1,4 +1,4 @@
-# Compact middle column theme for BetterDiscord
+# Compact middle column theme for BandagedBD
 
 ### Compact theme on left. Regular Discord theme on the right.
 
@@ -8,8 +8,8 @@
 </p>
 
 ### Install 
-1) Download Bandaged BetterDiscord at https://github.com/rauenzi/BetterDiscordApp
-2) Install BetterDiscord
+1) Download BandagedBD at https://github.com/rauenzi/BetterDiscordApp
+2) Install BandagedBD
 3) Open Discord settings (cogwheel in the bottom)
 4) Go to Themes
 5) Click `Open Theme Folder` and drop my [**theme file**](https://raw.githubusercontent.com/redfellow/compact-messages--betterdiscord-theme/master/reds-compact.theme.css) there (right click to save or open the link and ctrl-s)
