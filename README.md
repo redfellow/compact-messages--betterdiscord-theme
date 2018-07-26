@@ -17,3 +17,5 @@
 8) Go to the Theme settings again, and now you should be able to enable the theme:
 
 ![https://vgy.me/bL2NCb.png](https://vgy.me/bL2NCb.png)
+
+Bonus: if you use Rambox / Wavebox or browser Discord, you can use the compact theme as well, check: https://gist.github.com/redfellow/ef4e209acabb7dc30ef8c159cdc494cd
