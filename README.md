@@ -3,8 +3,7 @@
 ### Compact theme on left. Regular Discord theme on the right.
 
 <p float="left" align="center">
-  <img src="https://vgy.me/7lpL6v.png" width="49.5%" />
-  <img src="https://vgy.me/Nbkizw.png" width="49.5%" />   
+  <img src="https://cdn.discordapp.com/attachments/310528900868472834/472104486186385418/2018-07-26_21-12-44.png" />
 </p>
 
 ### Install 
