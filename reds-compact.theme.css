@@ -1,37 +1,41 @@
 //META{"name":"Compact middle column","description":"git@github.com:redfellow/compact-messages--betterdiscord-theme.git","author":"redfella","version":"1.0"}*//
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group {
-    padding: 10px 0
+.chat .content .messages > [class^='container']  {
+	padding-top: 11px;
+	margin-bottom: 11px;
+	zoom: 0.9;
 }
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group h2 strong {
-    font-weight: 600
+
+.chat .content .messages > [class^='container'] [class^=dividerEnabled] {
+	margin: 11px 0 -11px !important;
 }
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group h2 .timestamp {
+
+.chat .content .messages > [class^='container'] [class^=markup] {
+	line-height: 1.15;
+}
+
+.chat .content .messages > [class^='container'] > [class^='message']  {
+	position: relative;
+}
+
+.chat .content .messages > [class^='container'] h2 strong {
+	font-weight: 600;
+	letter-spacing: 0.2px;
+}
+.chat .content .messages > [class^='container'] h2 time {
     font-size: 14px
 }
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group .comment .markup code.inline,
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group .comment .markup pre code {
-    background: #2a2f38
+
+.chat .content .messages > [class^='container'] h2 [class^='botTag']  {
+	background-color: #191919;
+	color: #aaa;	
+	opacity: 0.5;
+	padding: 2px 4px;
 }
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group .comment .markup pre {
-    border-color: #232933
-}
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group .comment .markup .highlight {
-    background-color: rgba(68, 136, 220, 0.1)
-}
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group .comment .markup .highlight:hover {
-    background-color: rgba(51, 107, 191, 0.7)
-}
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group.is-local-bot-message {
-    background: transparent;
-    box-shadow: none;
-    border-bottom-color: rgba(255, 255, 255, 0.04)
-}
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn {
-    background: #2a2f38
-}
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn:hover {
-    background: #21262f
-}
-.app.theme-dark .chat .content .messages-wrapper .messages .message-group-blocked.revealed {
-    background: #2a2f38
+
+.chat .content .messages > [class^='container'] [class^=header] [class^='image'] {
+	height: 37px;
+	width: 37px;
+	position: relative;
+	top: 2px;
+	border-radius: 3px;
 }
