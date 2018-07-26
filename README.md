@@ -1,6 +1,6 @@
 # Compact middle column theme for BandagedBD
 
-### Compact theme on left. Regular Discord theme on the right.
+### Regular Discord theme on the left. Compact theme on right.
 
 <p float="left" align="center">
   <img src="https://cdn.discordapp.com/attachments/310528900868472834/472104486186385418/2018-07-26_21-12-44.png" />
